@@ -1,4 +1,4 @@
-## Hi, I'm Savannah 
+## Hey, I'm Savannah 
 
 Self-taught tech geek with some college, majoring in Computer Science<br/>
 I do some web dev projects just to stay consistent<br/>
